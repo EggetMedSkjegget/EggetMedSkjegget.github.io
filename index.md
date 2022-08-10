@@ -8,7 +8,6 @@
       <title>[Om Corner Arendal](about.md)</title>
    </head>
    <body>
-      <h1>Products</h1>
       <p style="color:blue"> [Om Corner Arendal](about.md)</p>
    </body>
 </html>
