@@ -2,4 +2,4 @@
 
 [Om Corner Arendal](about.md)
 
- <p style="color:blue"> Hei Jørgen Jobs, pls help </p>
+<a href=(about.md) style="color: blue; text-decoration: underline;text-decoration-style: dotted;">custom link</a>
