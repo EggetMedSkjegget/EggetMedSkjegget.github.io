@@ -2,4 +2,4 @@
 
 Corner er en klesbutikk som ligger i Pollen - i hjertet av Arendal. Butikken startet i hovedsak med herreklær, men har i de siste årene også solgt klær til dame og barn!
 
-[Tilbake til forsiden](www.EggetMedSkjegget.github.io)
+[Tilbake til forsiden](index.md)
