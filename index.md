@@ -1,4 +1,6 @@
-## Welcome to Github Pages!
+## Praksis Corner Arendal Høsten 2022
+
+[Om Corner Arendal](about.md)
 
 You can use [the editor on GitHub](https://github.com/EggetMedSkjegget/EggetMedSkjegget.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
