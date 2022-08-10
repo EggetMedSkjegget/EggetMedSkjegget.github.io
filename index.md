@@ -9,6 +9,6 @@
    </head>
    <body>
       <h1>Products</h1>
-      <p style="color:blue">This is demo content.</p>
+      <p style="color:blue"> [Om Corner Arendal](about.md)</p>
    </body>
 </html>
