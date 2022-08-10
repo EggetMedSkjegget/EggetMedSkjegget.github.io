@@ -3,5 +3,3 @@
 [Om Corner Arendal](about.md)
 
 
-<p> ### Markdown <span style="color:blue"> <em>[Om Corner Arendal](about.md)</em> </span> <p/>
-
