@@ -2,4 +2,4 @@
 
 [Om Corner Arendal](about.md)
 
-<a href="(about.md)" style="color: black; text-decoration: underline;text-decoration-style: dotted;">custom link</a>
+<a href="(about.md)" style="color: blue; text-decoration: underline;text-decoration-style: dotted;">Om Corner Arendal</a>
