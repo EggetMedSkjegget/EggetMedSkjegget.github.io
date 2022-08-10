@@ -2,4 +2,4 @@
 
 [Om Corner Arendal](about.md)
 
- <p style="color:blue"> Hei Skreosen </p>
+ <p style="color:blue"> Hei Jørgen Jobs, pls help </p>
