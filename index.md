@@ -2,4 +2,4 @@
 
 [Om Corner Arendal](about.md)
 
- <p style="color:blue"> Hei Anny </p>
+ <p style="color:blue"> Hei Skreosen </p>
