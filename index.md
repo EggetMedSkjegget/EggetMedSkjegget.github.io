@@ -2,10 +2,8 @@
 
 [Om Corner Arendal](about.md)
 
-<p>### Markdown <span style="color:blue"> <em>blue</em> </span> </p>
+### Markdown <span style="color:blue"> <em>blue</em> </span>
 
 ## Corner
 
 # Arendal
-
-### Hei Ingrid
