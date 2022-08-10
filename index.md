@@ -2,7 +2,7 @@
 
 [Om Corner Arendal](about.md)
 
-<p>### Markdown <span style="color:blue"> </span> </p>
+<p>### Markdown <span style="color:blue"> <em>blue</em> </span> </p>
 
 ## Corner
 
