@@ -2,7 +2,8 @@
 
 [Om Corner Arendal](about.md)
 
-### Markdown <em>blue</em>
+### Markdown <span style="color:blue"> <em>[Om Corner Arendal](about.md)
+</em> </span>
 
 ## Corner
 
